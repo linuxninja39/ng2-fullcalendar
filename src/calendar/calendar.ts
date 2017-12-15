@@ -14,7 +14,6 @@ import {Options} from "fullcalendar";
   selector: 'angular2-fullcalendar'
 })
 export class CalendarComponent implements OnInit,AfterViewInit,AfterContentChecked,AfterViewChecked{
-
   @Input() options:Options;
   text: string;
   calendarInitiated:boolean;
