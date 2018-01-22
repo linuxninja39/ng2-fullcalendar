@@ -2,7 +2,11 @@ import {Component, Input, OnInit, AfterViewInit, AfterContentChecked, AfterViewC
 import * as $ from 'jquery';
 import 'fullcalendar';
 import {Options} from "fullcalendar";
-
+/
+*hiiiiiiiiiii
+you are a cutie
+and i really like you
+*/
 /*
   Generated class for the Calendar component.
 
